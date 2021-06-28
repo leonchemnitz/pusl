@@ -14,7 +14,7 @@
   <description>Management system for the Institutes of Transportation at TU Darmstadt</description>
   <properties>
     <java.version>11</java.version>
-    <vaadin.version>14.3.5</vaadin.version>
+    <vaadin.version>14.6.2</vaadin.version>
     <pusl.skipTests>false</pusl.skipTests>
   </properties>
   <dependencies>
